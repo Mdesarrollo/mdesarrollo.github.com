@@ -1,0 +1,14 @@
+{
+  "name": "estudiar-desarrollo",
+  "version": "0.0.1",
+  "description": "practicar",
+  "main": "index.js",
+  "scripts": {
+    "dev":"npx tailwindcss -i ./src/input.css -o ./dist/output.css --watch"
+  },
+  "author": "maicolRobles",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.3.1"
+  }
+}
